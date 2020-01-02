@@ -1,0 +1,8 @@
+com/profcristianoaf81/hibernateogmdemo/Contato.class
+com/profcristianoaf81/hibernateogmdemo/ContatoDAO.class
+com/profcristianoaf81/hibernateogmdemo/ContatoBOExeption.class
+com/profcristianoaf81/hibernateogmdemo/main/MainClass.class
+com/profcristianoaf81/hibernateogmdemo/ContatoDAOImpl.class
+com/profcristianoaf81/hibernateogmdemo/util/DAOFactory.class
+com/profcristianoaf81/hibernateogmdemo/util/HibernateJPAUTIL.class
+com/profcristianoaf81/hibernateogmdemo/ContatoBO.class
